@@ -16,8 +16,7 @@ $zones = array(
     array( 'Zone' => 'KDH03', 'Negeri' => 'KEDAH' , 'Lokasi' => 'Padang Terap, Sik, Baling' ),
     array( 'Zone' => 'KDH04', 'Negeri' => 'KEDAH' , 'Lokasi' => 'Kulim, Bandar Baharu' ),
 
-    array( 'Zone' => 'KTN03', 'Negeri' => 'KELANTAN' , 'Lokasi' => 'Jeli, Gua Musang (Mukim Galas, Bertam)' ),
-    array( 'Zone' => 'KTN01', 'Negeri' => 'KELANTAN' , 'Lokasi' => 'K.Bharu,Bachok,Pasir Puteh,Tumpat,Pasir Mas,Tnh. Merah,Machang,Kuala Krai,Mukim Chiku' ),
+
 
     array( 'Zone' => 'MLK01', 'Negeri' => 'MELAKA' , 'Lokasi' => 'Bandar Melaka, Alor Gajah, Jasin, Masjid Tanah, Merlimau, Nyalas' ),
 
@@ -53,7 +52,11 @@ $zones = array(
     array( 'Zone' => 'SBH04', 'Negeri' => 'SABAH' , 'Lokasi' => 'Zon 4 - Tawau, Balong, Merotai, Kalabakan' ),
 
     array( 'Zone' => 'SWK01', 'Negeri' => 'SARAWAK' , 'Lokasi' => 'Zon 1 - Limbang, Sundar, Terusan, Lawas' ),
-  */  
+  */
+  
+    array( 'Zone' => 'KTN03', 'Negeri' => 'KELANTAN' , 'Lokasi' => 'Jeli, Gua Musang (Mukim Galas, Bertam)' ),
+    array( 'Zone' => 'KTN01', 'Negeri' => 'KELANTAN' , 'Lokasi' => 'K.Bharu,Bachok,Pasir Puteh,Tumpat,Pasir Mas,Tnh. Merah,Machang,Kuala Krai,Mukim Chiku' ),
+    
     array( 'Zone' => 'SWK08', 'Negeri' => 'SARAWAK' , 'Lokasi' => 'Zon 8 - Kuching, Bau, Lundu,Sematan' ),
     array( 'Zone' => 'SWK07', 'Negeri' => 'SARAWAK' , 'Lokasi' => 'Zon 7 - Samarahan, Simunjan, Serian, Sebuyau, Meludam' ),
     array( 'Zone' => 'SWK06', 'Negeri' => 'SARAWAK' , 'Lokasi' => 'Zon 6 - Kabong, Lingga, Sri Aman, Engkelili, Betong, Spaoh, Pusa, Saratok, Roban, Debak' ),
